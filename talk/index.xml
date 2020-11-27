@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | María Piquer Rodríguez</title>
+    <link>https://mariapiquer.github.io/talk/</link>
+      <atom:link href="https://mariapiquer.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Mon, 05 Oct 2020 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mariapiquer.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Panel Discussion on Science Communication - the Role of the Researcher</title>
+      <link>https://mariapiquer.github.io/talk/geox/</link>
+      <pubDate>Mon, 05 Oct 2020 16:00:00 +0000</pubDate>
+      <guid>https://mariapiquer.github.io/talk/geox/</guid>
+      <description>&lt;p&gt;The panel discussion will be the kick-off for this year&amp;rsquo;s Fall School of the Geo.X Young Academy on Science Communication.&lt;/p&gt;
+&lt;p&gt;The panel together with the audience will shed light on the role of the researcher in Science Communication: How mandatory is Science Communication today? How to responsibly communicate as a scientist? Which implications come with the use of social media, but also how do you communicate uncertainties?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaco | María Piquer Rodríguez</title>
+    <link>https://mariapiquer.github.io/tag/chaco/</link>
+      <atom:link href="https://mariapiquer.github.io/tag/chaco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chaco</title>
+      <link>https://mariapiquer.github.io/tag/chaco/</link>
+    </image>
+    
+    <item>
+      <title>The potential impact of economic policies on future land-use conversions in Argentina</title>
+      <link>https://mariapiquer.github.io/publication/2018-10-30_piquer-rodriguez2018b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mariapiquer.github.io/publication/2018-10-30_piquer-rodriguez2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of policies and zoning on future land use in Argentina</title>
+      <link>https://mariapiquer.github.io/publication/2017-02-20_piquer-rodriguez2017/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://mariapiquer.github.io/publication/2017-02-20_piquer-rodriguez2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized land use zoning reduces large-scale deforestation in a major agricultural frontier</title>
+      <link>https://mariapiquer.github.io/publication/2017-02-01_nolte2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://mariapiquer.github.io/publication/2017-02-01_nolte2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deforestation and cattle expansion in the Paraguayan Chaco 1987--2012</title>
+      <link>https://mariapiquer.github.io/publication/2017-01-25_baumann2017a/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mariapiquer.github.io/publication/2017-01-25_baumann2017a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastián Torrella | María Piquer Rodríguez</title>
+    <link>https://mariapiquer.github.io/author/sebastian-torrella/</link>
+      <atom:link href="https://mariapiquer.github.io/author/sebastian-torrella/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastián Torrella</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Fri, 03 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sebastián Torrella</title>
+      <link>https://mariapiquer.github.io/author/sebastian-torrella/</link>
+    </image>
+    
+    <item>
+      <title>Forest conservation: Remember Gran Chaco</title>
+      <link>https://mariapiquer.github.io/publication/2017-02-03_kuemmerle2017forest/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://mariapiquer.github.io/publication/2017-02-03_kuemmerle2017forest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
