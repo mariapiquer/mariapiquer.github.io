@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matching | María Piquer Rodríguez</title>
-    <link>https://mariapiquer.github.io/tag/matching/</link>
-      <atom:link href="https://mariapiquer.github.io/tag/matching/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/matching/</link>
+      <atom:link href="/tag/matching/index.xml" rel="self" type="application/rss+xml" />
     <description>Matching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Matching</title>
-      <link>https://mariapiquer.github.io/tag/matching/</link>
+      <link>/tag/matching/</link>
     </image>
     
     <item>
       <title>Decentralized land use zoning reduces large-scale deforestation in a major agricultural frontier</title>
-      <link>https://mariapiquer.github.io/publication/2017-02-01_nolte2017/</link>
+      <link>/publication/2017-02-01_nolte2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2017-02-01_nolte2017/</guid>
+      <guid>/publication/2017-02-01_nolte2017/</guid>
       <description></description>
     </item>
     

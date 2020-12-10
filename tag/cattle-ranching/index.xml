@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cattle ranching | María Piquer Rodríguez</title>
-    <link>https://mariapiquer.github.io/tag/cattle-ranching/</link>
-      <atom:link href="https://mariapiquer.github.io/tag/cattle-ranching/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/cattle-ranching/</link>
+      <atom:link href="/tag/cattle-ranching/index.xml" rel="self" type="application/rss+xml" />
     <description>Cattle ranching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Cattle ranching</title>
-      <link>https://mariapiquer.github.io/tag/cattle-ranching/</link>
+      <link>/tag/cattle-ranching/</link>
     </image>
     
     <item>
       <title>The role of soybean production as an underlying driver of deforestation in the South American Chaco</title>
-      <link>https://mariapiquer.github.io/publication/2017-05-01_fehlenberg2017/</link>
+      <link>/publication/2017-05-01_fehlenberg2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2017-05-01_fehlenberg2017/</guid>
+      <guid>/publication/2017-05-01_fehlenberg2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deforestation and cattle expansion in the Paraguayan Chaco 1987--2012</title>
-      <link>https://mariapiquer.github.io/publication/2017-01-25_baumann2017a/</link>
+      <link>/publication/2017-01-25_baumann2017a/</link>
       <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2017-01-25_baumann2017a/</guid>
+      <guid>/publication/2017-01-25_baumann2017a/</guid>
       <description></description>
     </item>
     

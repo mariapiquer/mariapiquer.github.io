@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>population trend | María Piquer Rodríguez</title>
-    <link>https://mariapiquer.github.io/tag/population-trend/</link>
-      <atom:link href="https://mariapiquer.github.io/tag/population-trend/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/population-trend/</link>
+      <atom:link href="/tag/population-trend/index.xml" rel="self" type="application/rss+xml" />
     <description>population trend</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Fri, 09 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>population trend</title>
-      <link>https://mariapiquer.github.io/tag/population-trend/</link>
+      <link>/tag/population-trend/</link>
     </image>
     
     <item>
       <title>Rapid declines of large mammal populations after the collapse of the Soviet Union</title>
-      <link>https://mariapiquer.github.io/publication/2015-01-09_bragina2015/</link>
+      <link>/publication/2015-01-09_bragina2015/</link>
       <pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2015-01-09_bragina2015/</guid>
+      <guid>/publication/2015-01-09_bragina2015/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tropical dry forests | María Piquer Rodríguez</title>
-    <link>https://mariapiquer.github.io/tag/tropical-dry-forests/</link>
-      <atom:link href="https://mariapiquer.github.io/tag/tropical-dry-forests/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/tropical-dry-forests/</link>
+      <atom:link href="/tag/tropical-dry-forests/index.xml" rel="self" type="application/rss+xml" />
     <description>tropical dry forests</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>tropical dry forests</title>
-      <link>https://mariapiquer.github.io/tag/tropical-dry-forests/</link>
+      <link>/tag/tropical-dry-forests/</link>
     </image>
     
     <item>
       <title>The potential impact of economic policies on future land-use conversions in Argentina</title>
-      <link>https://mariapiquer.github.io/publication/2018-10-30_piquer-rodriguez2018b/</link>
+      <link>/publication/2018-10-30_piquer-rodriguez2018b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2018-10-30_piquer-rodriguez2018b/</guid>
+      <guid>/publication/2018-10-30_piquer-rodriguez2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carbon emissions from agricultural expansion and intensification in the Chaco</title>
-      <link>https://mariapiquer.github.io/publication/2016-10-26_baumann2016b/</link>
+      <link>/publication/2016-10-26_baumann2016b/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2016-10-26_baumann2016b/</guid>
+      <guid>/publication/2016-10-26_baumann2016b/</guid>
       <description></description>
     </item>
     

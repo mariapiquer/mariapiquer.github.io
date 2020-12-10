@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | María Piquer Rodríguez</title>
-    <link>https://mariapiquer.github.io/talk/</link>
-      <atom:link href="https://mariapiquer.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Mon, 05 Oct 2020 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Thu, 10 Dec 2020 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://mariapiquer.github.io/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
+      <title>Presentation of GLP Working Group - Socio-Ecological Land Systems of Latin America</title>
+      <link>/talk/glpworkinggroup/</link>
+      <pubDate>Thu, 10 Dec 2020 15:00:00 +0000</pubDate>
+      <guid>/talk/glpworkinggroup/</guid>
+      <description>&lt;p&gt;The Social-Ecological Land Systems of Latin America (LASELS) Working Group is pleased to invite you to the first webinar of the group.&lt;/p&gt;
+&lt;p&gt;In this webinar you will hear about the concept of Socio-Ecological Land Systems (SELS) for South America presented by Dr. Sebastien Boillat. You will also be introduced to a novel spatial characterization of SELS for South America by Ms. Lucia Zarba. The SELS maps and their descriptions will be open for discussion afterwards. We are looking forward to hearing your thoughts!&lt;/p&gt;
+&lt;p&gt;The webinar will conclude with a presentation of the LASELS Working group and the upcoming agenda by Dr. Maria Piquer-Rodriguez, which will be then open for discussion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Panel Discussion on Science Communication - the Role of the Researcher</title>
-      <link>https://mariapiquer.github.io/talk/geox/</link>
+      <link>/talk/geox/</link>
       <pubDate>Mon, 05 Oct 2020 16:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/talk/geox/</guid>
+      <guid>/talk/geox/</guid>
       <description>&lt;p&gt;The panel discussion will be the kick-off for this year&amp;rsquo;s Fall School of the Geo.X Young Academy on Science Communication.&lt;/p&gt;
 &lt;p&gt;The panel together with the audience will shed light on the role of the researcher in Science Communication: How mandatory is Science Communication today? How to responsibly communicate as a scientist? Which implications come with the use of social media, but also how do you communicate uncertainties?&lt;/p&gt;
 </description>

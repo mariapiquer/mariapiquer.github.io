@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sofia Nanni | María Piquer Rodríguez</title>
-    <link>https://mariapiquer.github.io/author/sofia-nanni/</link>
-      <atom:link href="https://mariapiquer.github.io/author/sofia-nanni/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/sofia-nanni/</link>
+      <atom:link href="/author/sofia-nanni/index.xml" rel="self" type="application/rss+xml" />
     <description>Sofia Nanni</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sofia Nanni</title>
-      <link>https://mariapiquer.github.io/author/sofia-nanni/</link>
+      <link>/author/sofia-nanni/</link>
     </image>
     
     <item>
       <title>Open Standards for conservation as a tool for linking research and conservation agendas in complex socio-ecological systems</title>
-      <link>https://mariapiquer.github.io/publication/2020-06-01_nunez2020open/</link>
+      <link>/publication/2020-06-01_nunez2020open/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2020-06-01_nunez2020open/</guid>
+      <guid>/publication/2020-06-01_nunez2020open/</guid>
       <description></description>
     </item>
     

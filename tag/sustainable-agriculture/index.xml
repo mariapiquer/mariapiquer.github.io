@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sustainable agriculture | María Piquer Rodríguez</title>
-    <link>https://mariapiquer.github.io/tag/sustainable-agriculture/</link>
-      <atom:link href="https://mariapiquer.github.io/tag/sustainable-agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/sustainable-agriculture/</link>
+      <atom:link href="/tag/sustainable-agriculture/index.xml" rel="self" type="application/rss+xml" />
     <description>sustainable agriculture</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2020 María Piquer Rodríguez. All rights reserved. · Powered by the Academic theme for Hugo.</copyright><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mariapiquer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>sustainable agriculture</title>
-      <link>https://mariapiquer.github.io/tag/sustainable-agriculture/</link>
+      <link>/tag/sustainable-agriculture/</link>
     </image>
     
     <item>
       <title>Contribution of Irrigation Ponds to the Sustainability of Agriculture. A Review of Worldwide Research</title>
-      <link>https://mariapiquer.github.io/publication/2020-07-05_lopez2020contribution/</link>
+      <link>/publication/2020-07-05_lopez2020contribution/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mariapiquer.github.io/publication/2020-07-05_lopez2020contribution/</guid>
+      <guid>/publication/2020-07-05_lopez2020contribution/</guid>
       <description></description>
     </item>
     
